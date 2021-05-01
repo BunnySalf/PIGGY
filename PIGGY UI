@@ -95,7 +95,7 @@ function Forums.new(newName)
 
     Main.Name = "Main"
     Main.Parent = shadow
-    Main.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+    Main.BackgroundColor3 = Color3.fromRGB(54, 57, 63)
     Main.BorderColor3 = Color3.fromRGB(27, 27, 27)
     Main.ClipsDescendants = true
     Main.Position = UDim2.new(0.361818194, 0, 0.354368925, 0)
